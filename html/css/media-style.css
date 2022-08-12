@@ -76,10 +76,15 @@
         align-items: center;
         margin: 20px;
     }
+    .row-for-two{
+        display: flex;
+        flex-direction: column;
+    }
     .two-rows{
         margin-right: 0px;
         position:relative;
         background-color: aliceblue;
+        display: block;
         
     }
 
