@@ -126,6 +126,10 @@ a:hover{
     display: flex;
     flex-direction: row;
 }
+.row-for-two{
+    display: flex;
+    flex-direction: row;
+}
 .column{
     display: flex;
     flex-direction: column;
